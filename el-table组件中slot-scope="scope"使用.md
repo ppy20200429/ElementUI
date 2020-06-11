@@ -59,7 +59,6 @@ template（模版） 在这里属于一个固定用法： <template slot-scope="
 还有重要的一点，scope又并非是整个table，我们只是能通过scope.row获得当前的行数据，至于具体为什么，目前我还没有理解得很透彻。只是希望按照这个理解，能记住多点关于scope的使用。
 
 #### 例子2：
-
 [实例效果图](https://upload-images.jianshu.io/upload_images/15605295-e13e2bc5b886e937.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 
 template:
