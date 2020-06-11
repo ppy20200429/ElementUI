@@ -60,6 +60,8 @@ template（模版） 在这里属于一个固定用法： <template slot-scope="
 
 #### 例子2：
 
+[实例效果图](https://upload-images.jianshu.io/upload_images/15605295-e13e2bc5b886e937.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
+
 template:
 
 ```js
